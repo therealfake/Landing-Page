@@ -1,6 +1,27 @@
-.body {
+body {
+    margin: 0px;
     display: flex;
     flex-direction: column;
+}
+
+.main-content-middle-2 {
+    padding: 10vh 20vh;
+    background-color: #e5e7eb;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.quote {
+    display: flex;
+    flex-flow: column;
+}
+
+.quote .quote-author {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 900;
 }
 .footer {
     background-color: #1F2937;
