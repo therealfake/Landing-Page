@@ -1,3 +1,11 @@
+/** TODO: 
+- need to fix image formatting, such that when the webpage is loaded the donnie yen photo has space reserved for it and it dosen't load
+so slowly. 
+- The Gichin portrai also loads pretty slowly
+- Fix so that the martial arts legends are horizontally aligned
+- investigate which of flex-grow, shrink, and basis are applicable.
+**/
+
 body {
     margin: 0px;
     display: flex;
