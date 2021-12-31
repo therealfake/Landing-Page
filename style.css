@@ -17,6 +17,7 @@ body {
 .hero .header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .hero .header .logo {
@@ -32,8 +33,6 @@ body {
 .hero .header ul {
     list-style: none;
     display: flex;
-    justify-content: center;
-    align-items: center;
     gap: 25px;
 }
 
