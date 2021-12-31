@@ -106,7 +106,8 @@ body {
 }
 
 .main-content-bottom {
-    background-color: #3882F6;
+    /**background-color: #3882F6;**/
+    background-color: #DAA520;
     color: white;
     padding: 70px 140px;
     margin: 75px auto;
